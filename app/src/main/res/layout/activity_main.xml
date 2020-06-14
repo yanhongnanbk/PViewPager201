@@ -26,13 +26,10 @@
     <LinearLayout
         android:id="@+id/layoutOnboardingViewPager"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="20dp"
         android:layout_above="@id/buttonOnboardingAction"
-        android:layout_below="@id/buttonOnboardingAction"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
-        android:layout_toStartOf="@id/buttonOnboardingAction"
-        android:background="@color/colorPrimaryDark"
         android:orientation="horizontal" />
 
 
